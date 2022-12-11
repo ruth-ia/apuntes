@@ -1,5 +1,5 @@
 // Para crear una variable: las variables 
-// let solo funcionan dentro de las llaves en las que se han creado
+// let solo funcionan dentro de las llaves en las que se han creadotyytyftyfutftf
 let variable = 0;
 let variable2 = "hola";
 let siono = true;
