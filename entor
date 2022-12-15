@@ -1,0 +1,6 @@
+private int contarPalabras (string telegrama)
+        {
+            char[] delimitadores = new char[] { ' ', '\r', '\n', ',', '.', '\t', ':', ';' };
+            int palabras = telegrama.Split(delimitadores, StringSplitOptions.RemoveEmptyEntries).Length;
+            return palabras;
+        }
